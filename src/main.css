@@ -1,0 +1,14 @@
+#pacman {
+  display: flex;
+  flex-wrap: wrap;
+
+  width: 360px;
+  height: 422px;
+}
+
+.cell {
+  width: 20px;
+  height: 20px;
+
+  border: 1px solid black;
+}
